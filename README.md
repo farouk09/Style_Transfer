@@ -17,4 +17,4 @@ An example is shown below, where the content image is of a cat, and the style im
 
 ![image](https://user-images.githubusercontent.com/38142069/119848032-6083f580-bf03-11eb-8de1-41c5605cc5ab.png)
 
-In this notebook, we'll use a pre-trained VGG19 Net to extract content or style features from a passed in image. We'll then formalize the idea of content and style _losses_ and use those to iteratively update our target image until we get a result that we want. You are encouraged to use a style and content image of your own and share your work on Twitter with @udacity; we'd love to see what you come up with!
+In this notebook, we'll use a pre-trained VGG19 Net to extract content or style features from a passed in image. We'll then formalize the idea of content and style _losses_ and use those to iteratively update our target image until we get a result that we want.
